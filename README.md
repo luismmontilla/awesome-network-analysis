@@ -181,7 +181,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 ## Courses
 
 -   [Complex Networks](https://www.uvm.edu/~pdodds/teaching/courses/2016-01UVM-303/), by Peter Sheridan Dodds (University of Vermont, 2016; Twitter: [@networksvox](https://twitter.com/networksvox)).
-  -   [Tarot Cards for Principles of Complex Systems and Complex Networks](https://www.uvm.edu/~pdodds/teaching/courses/2016-01UVM-303/tarotcards/).
+- [D3 Graph Theory](https://mrpandey.github.io/d3graphTheory/index.html): An interactive graph theory course.
 -   [Graph Theory and Applications](http://www.hamilton.ie/ollie/Downloads/Graph.pdf), by Paul Van Dooren - Full lecture slides (Hamilton Institute, Dublin, 2009).
 -   [Graph Theory (Mathematics)](http://www.personal.psu.edu/cxg286/Math485.pdf), by Christopher Griffin - Full lecture notes (Penn State University, 2012).
 -   [Network Analysis and Modeling (Computer Science)](http://tuvalu.santafe.edu/~aaronc/courses/5352/), by Aaron Clauset - Full lecture slides and readings (University of Colorado, 2014).
@@ -196,6 +196,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Social Network Analysis](http://www.mjdenny.com/workshops/SN_Theory_I.pdf) and [Intermediate Social Network Theory](http://www.mjdenny.com/workshops/Relational_Theory_Workshop.pdf), by Matthew J. Denny - Workshop notes and slides (2014–5).
 -   [Social Network Analysis with Pajek](http://mrvar.fdv.uni-lj.si/sola/info4/), by Andrej Mrvar (University of Ljubljana, 2016).
 -   [Social Networks](http://dennisfeehan.org/teaching/201701_demog260.html), by Dennis M. Feehan (University of Berkeley, 2017).
+-   [Tarot Cards for Principles of Complex Systems and Complex Networks](https://www.uvm.edu/~pdodds/teaching/courses/2016-01UVM-303/tarotcards/).
 -   [The Structure of Information Networks](https://www.cs.cornell.edu/Courses/cs6850/2008fa/), by Jon Kleinberg - Links to many diverse readings (Cornell University, 2008).
 
 ## Datasets
